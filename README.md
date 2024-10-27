@@ -11,4 +11,4 @@ Basic OOP concepts are used: classes, objects, encapsulation, inheritance and po
 # 📋 Sorce code:
 
 
-# Screenshots:
+# 💻 Screenshots:
