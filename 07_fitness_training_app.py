@@ -27,7 +27,7 @@ class Exercise:
         self.difficulty = difficulty
 
     def display_exercise(self):
-        return f"{self.name} ({self.difficulty}): {self.description}"
+        return f"{self.name} ({self.difficulty}): \n{self.description}\n"
 
 
 class Workout:
@@ -57,6 +57,69 @@ class ProgressTracker:
     def generate_report(self):
         total_workouts = len(self.user.workout_history)
         return f"{self.user.name} has completed {total_workouts} workouts."
+
+
+print("Welcome to FitnesTracker2000")
+people = []
+exercises = []
+
+squats = Exercise("Squats", "Strength exercise in which the trainee lowers their hips from a standing position and then stands back up", "Medium")
+push_ups = Exercise("Push-ups", "Raising and lowering the body using the arms", "Medium")
+lunges = Exercise("Lunges", "Lower body exercise that involves stepping one leg in front of your body and bending both knees while keeping your torso in an upright position", "Low")
+crunches = Exercise("Crunches", "Abdominal exercise that works the rectus abdominis muscle", "Medium")
+running = Exercise("Tredmill running", "Running on a tredmill machine", "Low")
+exercises.append(squats)
+exercises.append(push_ups)
+exercises.append(lunges)
+exercises.append(crunches)
+exercises.append(running)
+
+
+
+while True:
+    print("Please pick one of the following options: "
+          "\n1. Create a new user profile."
+          "\n2. Update existing profile "
+          "\n3. See available excercises")
+
+    command = int(input())
+    if command == 5:
+        for person in people:
+            print(person.display_info())
+        break
+    if command == 1:
+        name = input("What is your name: ")
+        age = int(input("How old are you: "))
+        weight = int(input("What is your current weight: "))
+        height =  int(input("What is your current height: "))
+        goal = input("What is your fitness goal: ")
+
+        person = User(name, age,weight, height, goal)
+        people.append(person)
+
+    elif command == 2:
+        user = input("Which user do you want to update: ")
+        for person in people:
+            if user == person.name:
+                change = input("What do you want to update (weight/goal): ")
+                while change != 'weight' or change != 'goal':
+                    if change == 'weight':
+                        update = input("What is your current weight: ")
+                        person.update_weight(update)
+                        break
+                    elif change == 'goal':
+                        update = input("What is your current goal: ")
+                        person.update_goal(update)
+                        break
+                    else:
+                        print("Please pick either wight or goal")
+                        change = input("What do you want to update (weight/goal): ")
+            else:
+                print('Name not existing in database')
+
+    elif command == 3:
+        for exercise in exercises:
+            print(exercise.display_exercise())
 
 
 
