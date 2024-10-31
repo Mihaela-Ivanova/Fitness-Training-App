@@ -8,7 +8,10 @@ The fitness training application is a Python-based project designed to apply obj
 # 🛠️ Solution
 Basic OOP concepts are used: classes, objects, encapsulation, inheritance and polymorphism. Organize Python code into multiple modules and maintain clear, reusable class structures.
 
+# 📝 System operation
+
 # 📋 Sorce code:
 
+https://pastebin.com/vu8EF4s9
 
 # 💻 Screenshots:
