@@ -40,3 +40,25 @@ As a result, the program executes and visualizes the choice submitted by the use
 https://pastebin.com/vu8EF4s9
 
 # 💻 Screenshots:
+
+ - Main menu:
+
+![menu](https://github.com/user-attachments/assets/fd49fe1e-635d-450e-98aa-f6c6ff031876)
+
+ - View of created profiles
+
+![5](https://github.com/user-attachments/assets/6ba1ddc5-29e3-4075-882b-45d0437a872b)
+
+ - Some of the wxercises
+
+![2](https://github.com/user-attachments/assets/0a6187ed-ed9a-48df-a685-dbbd6503436f)
+
+ - Made a new workout
+
+![3](https://github.com/user-attachments/assets/0491e218-6f63-4482-a14c-69336b488270)
+
+ - View Personal Workout History
+
+![4](https://github.com/user-attachments/assets/1c839a72-132a-4a72-90d9-620e4dda5f68)
+
+
