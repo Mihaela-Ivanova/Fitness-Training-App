@@ -1,5 +1,6 @@
 # 🏋️‍♂️ Fitness-Training-App
 
+![everything-you-need-know-about-fitness-1440x810](https://github.com/user-attachments/assets/6db46533-87eb-4461-aaad-2cc98033e87a)
 
 
 
