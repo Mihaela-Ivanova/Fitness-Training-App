@@ -2,8 +2,6 @@
 
 ![everything-you-need-know-about-fitness-1440x810](https://github.com/user-attachments/assets/6db46533-87eb-4461-aaad-2cc98033e87a)
 
-
-
 # 🚀 Overview
 
 The fitness training application is a Python-based project designed to apply object-oriented programming (OOP) concepts. A fitness app has been developed that allows users to create and manage workout routines, track progress and monitor their personal fitness journey.
