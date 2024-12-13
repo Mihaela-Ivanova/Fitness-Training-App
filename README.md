@@ -1,5 +1,6 @@
 # 🏋️‍♂️ Fitness-Training-App
 
+![360_F_179817756_QzTocli57q9G6a1Oe7kJtoMS5dNMU8cl](https://github.com/user-attachments/assets/760541bc-41b1-46f2-9351-b7ab67ac0e87)
 
 
 # 🚀 Overview
