@@ -12,7 +12,7 @@ Basic OOP concepts are used: classes, objects, encapsulation, inheritance and po
 
 # 📝 System operation
 
- 👤 - File User: The User class allows the user to create and configure a user profile. The user has the option to enter their personal information (name, age, weight, height, fitness goal) to create a new profile in the application. It can also make its own updates as it sets, changing its weight and fitness goal over time.
+ - File User 👤: The User class allows the user to create and configure a user profile. The user has the option to enter their personal information (name, age, weight, height, fitness goal) to create a new profile in the application. It can also make its own updates as it sets, changing its weight and fitness goal over time.
 
  - Exercise File: The Exercise class creates the library of exercises that can be performed by the user and is saved in the fitness application's database.
 Each exercise has a name, description and difficulty level.
