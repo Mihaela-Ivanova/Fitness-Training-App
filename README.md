@@ -17,7 +17,7 @@ Basic OOP concepts are used: classes, objects, encapsulation, inheritance and po
  - Exercise File: 🔩 The Exercise class creates the library of exercises that can be performed by the user and is saved in the fitness application's database.
 Each exercise has a name, description and difficulty level.
 
- - Workout File: The Workout class creates user workout plans with built-in routines from the exercises in the library. Each workout has a name, sets, reps, and a specified rest time between sets. In addition to creating a training program, the user can also view and modify an already created one. I can add exercises to my training plans with corresponding sets, reps and rest times. It can also eliminate exercise.
+ - Workout File: 🥇 The Workout class creates user workout plans with built-in routines from the exercises in the library. Each workout has a name, sets, reps, and a specified rest time between sets. In addition to creating a training program, the user can also view and modify an already created one. I can add exercises to my training plans with corresponding sets, reps and rest times. It can also eliminate exercise.
 
  - Track Progress File: In the Track Progress class, the user logs their completed workouts. It has the ability to track your progress over time and generate reports showing training history and statistics about them.
 
