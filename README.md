@@ -39,7 +39,7 @@ As a result, the program executes and visualizes the choice submitted by the use
 
 https://pastebin.com/vu8EF4s9
 
-# 💻 Screenshots:
+#  Screenshots:
 
  - Main menu:
 
