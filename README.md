@@ -21,7 +21,7 @@ Each exercise has a name, description and difficulty level.
 
  - Track Progress File: 🏆 In the Track Progress class, the user logs their completed workouts. It has the ability to track your progress over time and generate reports showing training history and statistics about them.
 
- - File Main: In this file, a system is created with a basic text interface for the user, which allows him to manage the FitnessApp application through certain options, in the form of a menu. All the individual classes and structs used in the application above are visualized to the user as different options. He has the option to choose how he will manage the application:
+ - File Main: 🔑 In this file, a system is created with a basic text interface for the user, which allows him to manage the FitnessApp application through certain options, in the form of a menu. All the individual classes and structs used in the application above are visualized to the user as different options. He has the option to choose how he will manage the application:
 
 Please pick one of the following options:
  1. Create a new user profile.
