@@ -23,7 +23,7 @@ Each exercise has a name, description and difficulty level.
 
  - File Main: 🔑 In this file, a system is created with a basic text interface for the user, which allows him to manage the FitnessApp application through certain options, in the form of a menu. All the individual classes and structs used in the application above are visualized to the user as different options. He has the option to choose how he will manage the application:
 
-Please pick one of the following options:
+✔ Please pick one of the following options:
  1. Create a new user profile.
  2. Update existing profile
  3. See available exercises
