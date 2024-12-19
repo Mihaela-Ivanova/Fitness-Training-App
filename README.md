@@ -45,7 +45,7 @@ https://pastebin.com/vu8EF4s9
 
 ![menu](https://github.com/user-attachments/assets/fd49fe1e-635d-450e-98aa-f6c6ff031876)
 
- - View of created profiles
+ - View of created profiles:
 
 ![5](https://github.com/user-attachments/assets/6ba1ddc5-29e3-4075-882b-45d0437a872b)
 
