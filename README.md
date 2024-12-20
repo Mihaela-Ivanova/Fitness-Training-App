@@ -49,7 +49,7 @@ https://pastebin.com/vu8EF4s9
 
 ![5](https://github.com/user-attachments/assets/6ba1ddc5-29e3-4075-882b-45d0437a872b)
 
- - Some of the wxercises
+ - Some of the wxercises:
 
 ![2](https://github.com/user-attachments/assets/0a6187ed-ed9a-48df-a685-dbbd6503436f)
 
