@@ -53,7 +53,7 @@ https://pastebin.com/vu8EF4s9
 
 ![2](https://github.com/user-attachments/assets/0a6187ed-ed9a-48df-a685-dbbd6503436f)
 
- - Made a new workout
+ - Made a new workout:
 
 ![3](https://github.com/user-attachments/assets/0491e218-6f63-4482-a14c-69336b488270)
 
