@@ -57,7 +57,7 @@ https://pastebin.com/vu8EF4s9
 
 ![3](https://github.com/user-attachments/assets/0491e218-6f63-4482-a14c-69336b488270)
 
- - View Personal Workout History
+ - View Personal Workout History:
 
 ![4](https://github.com/user-attachments/assets/1c839a72-132a-4a72-90d9-620e4dda5f68)
 
